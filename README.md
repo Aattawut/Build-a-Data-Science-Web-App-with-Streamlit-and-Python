@@ -7,13 +7,14 @@
 
 ## ความต้องการของระบบในการทำโปรเจค
 * Python (ขณะที่ทำใช้เวอร์ชัน 3.6) 
+* Dataset ที่ใช้ในการทำโปรเจคนี้ เนื่องจากมีขนาดใหญ่เกินไป สามารถโหลดได้[ที่นี่](https://drive.google.com/drive/folders/1RF_t2dK4nSKE0y6_lSqnEG4vdRExUkU7?usp=sharing)
 * numpy==1.16.4
 * pandas==0.24.2
 * pydeck==0.3.0
 * streamlit==0.57.3 --> สามารถติดตั้งได้ที่นี่ [คลิก](https://docs.streamlit.io/en/latest/troubleshooting/clean-install.html)
 * plotly==4.0.0 --> สามารถติดตั้งได้ที่นี่ [คลิก](https://pypi.org/project/plotly-express/)
 
-* Dataset ที่ใช้ในการทำโปรเจคนี้ เนื่องจากมีขนาดใหญ่เกินไป สามารถโหลดได้ที่นี่
+
 
 ## วัตถุประสงค์
 1. สร้างเว็บแอปพลิเคชันแบบโต้ตอบด้วย [Streamlit](https://www.streamlit.io/) และ Python
