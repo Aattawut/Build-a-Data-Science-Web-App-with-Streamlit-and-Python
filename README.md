@@ -1,7 +1,10 @@
 ## Build-a-Data-Science-Web-App-with-Streamlit-and-Python
 <img width="1792" alt="Cover" src="Capture.PNG">
 
+## เกี่ยวกับ
+แอปพลิเคชั่นนี้เป็นแดชบอร์ดที่สามารถเเสดงการวิเคราะห์เกี่ยวกับชนของยานยนต์ใน NYC
 
+---
 ##### Guided Projects Courses from Coursera
 ##### สามารถเข้าไปเรียนได้ที่นี่ [Coursera](https://www.coursera.org/projects/data-science-streamlit-python)
 
