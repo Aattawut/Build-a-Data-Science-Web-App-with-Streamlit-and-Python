@@ -1,5 +1,5 @@
 ## Build-a-Data-Science-Web-App-with-Streamlit-and-Python
-
+![google ](https://www.google.co.th/search?q=google&tbm=isch&sxsrf=ALeKk00E10FrpxQJC94Ed_pq2-Lk3hhmMQ:1591585257180&source=lnms&sa=X&ved=0ahUKEwiG4IiPnfHpAhWUIbcAHQ4XCxEQ_AUICygC&biw=1536&bih=722&dpr=1.25#imgrc=Jlupfhb7NQat2M)
 
 ##### Guided Projects Courses from Coursera
 ##### สามารถเข้าไปเรียนได้ที่นี่ [Coursera](https://www.coursera.org/projects/data-science-streamlit-python)
@@ -24,7 +24,7 @@
 2. ใช้ [Pandas](https://pandas.pydata.org/) เพื่อการจัดการข้อมูลในกระบวนการทำงานด้านวิทยาศาสตร์ข้อมูล
 
 
-## วิธีรันโค้ดให้
+## วิธีรันโค้ด
 วิธีผม ผมจะรันผ่าน Anaconda Prompt ที่ผมได้สร้าง Environments เอาไว้ ดูวิธีทำ[ที่นี่](https://docs.anaconda.com/anaconda/navigator/getting-started/#managing-environments)
 จากนั้นเมื่อเข้าหน้า Anaconda Prompt โดยเป็น path ที่ไฟล์ของเราอยู่ 
 ให้ใช้คำสั่ง 
