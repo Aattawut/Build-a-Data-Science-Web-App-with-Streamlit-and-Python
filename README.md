@@ -1,5 +1,6 @@
 ## Build-a-Data-Science-Web-App-with-Streamlit-and-Python
-![google ](https://www.google.co.th/search?q=google&tbm=isch&sxsrf=ALeKk00E10FrpxQJC94Ed_pq2-Lk3hhmMQ:1591585257180&source=lnms&sa=X&ved=0ahUKEwiG4IiPnfHpAhWUIbcAHQ4XCxEQ_AUICygC&biw=1536&bih=722&dpr=1.25#imgrc=Jlupfhb7NQat2M)
+<img width="1792" alt="Cover" src="Capture.PNG">
+
 
 ##### Guided Projects Courses from Coursera
 ##### สามารถเข้าไปเรียนได้ที่นี่ [Coursera](https://www.coursera.org/projects/data-science-streamlit-python)
