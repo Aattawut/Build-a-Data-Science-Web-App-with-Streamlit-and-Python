@@ -12,8 +12,7 @@
 * pydeck==0.3.0
 * streamlit==0.57.3 --> สามารถติดตั้งได้ที่นี่ [คลิก](https://docs.streamlit.io/en/latest/troubleshooting/clean-install.html)
 * plotly==4.0.0 --> สามารถติดตั้งได้ที่นี่ [คลิก](https://pypi.org/project/plotly-express/)
-
-Dataset ที่ใช้ในการทำโปรเจคนี้ เนื่องจากมีขนาดใหญ่เกินไป สามารถโหลดได้ที่นี่
+*** Dataset ที่ใช้ในการทำโปรเจคนี้ เนื่องจากมีขนาดใหญ่เกินไป สามารถโหลดได้ที่นี่
 
 ## วัตถุประสงค์
 1. สร้างเว็บแอปพลิเคชันแบบโต้ตอบด้วย [Streamlit](https://www.streamlit.io/) และ Python
